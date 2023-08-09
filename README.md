@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DennyRuchiatAtWork
 - 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently majoring in Computer Science in Brawijaya University 
+- 🌱 I’m a Computer Science fresh graduate from Brawijaya University 
 - 📫 How to reach me :
       <> dennyruchiat.work@gmail.com
       <> +6281809902214
